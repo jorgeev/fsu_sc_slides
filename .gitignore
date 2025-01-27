@@ -1,0 +1,12 @@
+*.o
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.webp
+
+*.pdf
